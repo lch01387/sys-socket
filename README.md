@@ -4,7 +4,7 @@
  
 File 구성
 - chat.c  : 클라이언트와 서버간 파일을 주고받는 메인 소스.
-- myqueue.c : queue 자료구조를 사용하기 위한 소스. 출처:http://ehclub.net/58
+- myqueue.h : queue 자료구조를 사용하기 위한 소스. 출처:http://ehclub.net/58
 - gen.c   : n 개의  m MB의 크기의 text 파일 만들기 (client가 전송할 파일
 
 컴파일 및 실행방법
